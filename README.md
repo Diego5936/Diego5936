@@ -1,49 +1,39 @@
-<!-- Profile Header -->
-<h1 align="center">Hi, I'm Diego Pedroza 👋</h1>
-<h3 align="center">CS @ UCF • AI/Robotics + Full-Stack • I like building systems that actually ship</h3>
+<!-- Header -->
+<h1 align="center">
+  Hi, I'm Diego!! 
+  <img src="https://media.giphy.com/media/3o72FkiKGMGauydfyg/giphy.gif" width="35"/>
+  <img src="https://media.giphy.com/media/3o72FkiKGMGauydfyg/giphy.gif" width="35"/>
+</h1>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:diegoapedrozap@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail"></a>
-  <a href="https://github.com/YOUR_USERNAME"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github"></a>
+  <a href="https://www.linkedin.com/in/diegopedrozap/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/Diego5936">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github">
+  </a>
 </p>
 
 ---
 
 ## 🧠 About me
-- 🎓 B.S. Computer Science @ University of Central Florida (Minor: Intelligent Robotic Systems), graduating **Summer 2026**
-- 🤖 Into **robotics**, **multi-agent systems**, **computer vision**, and **automation**
-- 🛠️ I build end-to-end: *model → backend → realtime UI → deployment*
-- 🍮 Fun fact: I will do unreasonable things for a good dessert
+- 🎓 B.S. Computer Science @ University of Central Florida
+  (Minor: Intelligent Robotic Systems), graduating **Summer 2026**
+  
+- 🤖 Interested in **robotics, multi-agent systems, computer vision, and automation**
+
+- 🧱 Lead of the **Developers Committee** in **Theta Tau**, the oldest co-ed engineering fraternity in the U.S.  
+  We help members automate workflows and build tools that make daily tasks easier!
+
+- 🧬 Currently exploring **research**, especially in **evolutionary algorithms**, a branch of computation I’ve gained a lot of passion towards
+
+- 🌲 I love the outdoors! I grew up running, enjoy rock climbing, and have competed in multiple **Spartan Races**
 
 ---
 
-## 🚀 Spotlight Projects
-### 🌭 HotDog — Multi-Agent LLM-Controlled JetBot
-Multi-agent command layer (Director / Observer / Pilot) that turns vague goals into objectives + label sets.  
-Backend streams detections/telemetry in realtime to a web dashboard.  
-**Tech:** FastAPI, WebSockets, React/Next.js, Tailwind, YOLO  
-🔗 Repo: (add link) • Demo: (add link)
+## 🧰 Tech Stack
 
-### 🌐 Theta Tau Chapter Website — ucfthetatau.org
-Full-stack PERN app on AWS Lightsail with whitelist-only login + brother-only features.  
-🔗 Repo: (add link) • Live: (add link)
-
-### 🧬 Strata — NEAT from paper (Unity + C#)
-Implemented NEAT and evolved agents with different behaviors under identical reward systems.  
-**Tech:** Unity, C#, Python, Matplotlib  
-🔗 Repo: (add link)
-
----
-
-## 💼 Experience & Leadership
-- 🛰️ **Neural Systems Intern @ Pheratech Systems** — decentralized AI + CV for robotic vehicles; Unity simulations; RL (PPO)
-- 🧱 **Developers Committee Project Manager (Theta Tau @ UCF)** — lead multiple projects, delegate tasks, manage delivery
-
----
-
-## 🧰 Tech Stack (from my day-to-day)
-**Languages**
+### 🚀 Languages & Core Technologies
 ![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
 ![C](https://img.shields.io/badge/C-111?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-111?style=for-the-badge&logo=cplusplus)
@@ -53,7 +43,9 @@ Implemented NEAT and evolved agents with different behaviors under identical rew
 ![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql)
 ![Bash](https://img.shields.io/badge/Bash-111?style=for-the-badge&logo=gnubash)
 
-**Frameworks / Libraries**
+---
+
+### 🛠️ Frameworks, ML, & Tools
 ![PyTorch](https://img.shields.io/badge/PyTorch-111?style=for-the-badge&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-111?style=for-the-badge&logo=tensorflow)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-111?style=for-the-badge&logo=scikitlearn)
@@ -62,28 +54,8 @@ Implemented NEAT and evolved agents with different behaviors under identical rew
 ![FastAPI](https://img.shields.io/badge/FastAPI-111?style=for-the-badge&logo=fastapi)
 ![Unity](https://img.shields.io/badge/Unity-111?style=for-the-badge&logo=unity)
 ![ROS](https://img.shields.io/badge/ROS-111?style=for-the-badge&logo=ros)
-
-**Tools**
 ![Docker](https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker)
-![AWS](https://img.shields.io/badge/AWS_Lightsail-111?style=for-the-badge&logo=amazonaws)
+![AWS](https://img.shields.io/badge/AWS-111?style=for-the-badge&logo=amazonaws)
 ![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git)
 ![Jupyter](https://img.shields.io/badge/Jupyter-111?style=for-the-badge&logo=jupyter)
 ![Linux](https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux)
-
----
-
-## 📊 Stats
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
-</p>
-
-<!-- Optional: Streak -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME" />
-</p>
-
-<!-- Optional: Activity graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME" />
-</p>
