@@ -6,6 +6,9 @@
 </h1>
 
 <p align="center">
+  <a href="https://dpedroza.dev">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-dpedroza.dev-7C3AED?style=for-the-badge&logo=vercel">
+  </a>
   <a href="https://www.linkedin.com/in/diegopedrozap/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
   </a>
@@ -13,6 +16,7 @@
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github">
   </a>
 </p>
+
 
 ---
 
